@@ -1,9 +1,10 @@
 #navBar img{
+    position: absolute;
     display: inline;
     border-radius: 20px;
-    margin-top: 10px;
+    margin-bottom: 10px;
     width: 100px;
-    margin-left: 10px;
+    margin-right: 10px;
 }
 
 #contant{
@@ -23,6 +24,7 @@
 }
 
 #item2{
+    margin-left: 102px;
     color: white;
     background-color: gray;
     text-align: center;
@@ -33,6 +35,7 @@
 }
 
 #item3{
+    margin-left: 102px;
     color: white;
     background-color: blue;
     text-align: center;
@@ -42,6 +45,7 @@
 }
 
 #item4{
+    margin-left: 102px;
     color: white;
     background-color: red;
     text-align: center;
